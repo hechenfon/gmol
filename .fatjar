@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Tue Oct 08 16:37:31 CDT 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=gmol_linux_1.0.jar
+manifest.mergeall=true
+manifest.mainclass=
+manifest.file=MANIFEST.MF
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
